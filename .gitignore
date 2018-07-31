@@ -1,0 +1,7 @@
+*.pyc
+db.sqlite3
+.DS_Store
+cover/
+.coverage
+nosetests.xml
+.tox
